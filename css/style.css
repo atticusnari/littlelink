@@ -114,8 +114,8 @@
 .avatar {
 	width: 8rem;             /* 128px */
 	height: 8rem;
-	max-width: 200%
-	max-height: 200%
+	max-width: 200%;
+	max-height: 200%;
 	border-radius: 50%;
 	object-fit: cover;
 	background-position: center;
