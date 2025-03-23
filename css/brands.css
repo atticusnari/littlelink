@@ -611,3 +611,10 @@
 	--button-background:#0B5CFF;
   --button-border:1px solid #FFFFFF;
 }
+
+/* Blog */
+.button-blog {
+    --button-text: #1f69ff;
+    --button-background: #1b1b1e;
+    --button-border: 1px solid #FFFFFF;
+}
